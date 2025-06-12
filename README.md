@@ -1,2 +1,1 @@
-# photogallery
- TK photography assignment
+HTML/CSS practice (^.^) 
